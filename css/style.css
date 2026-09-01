@@ -1,0 +1,16 @@
+/* remove browser spacing */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* the whole page */
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background:orange;
+}
+
+header{
+    align-tiems:center;
+}
