@@ -1,16 +1,89 @@
-/* remove browser spacing */
+/* Remove browser spacing */
+
 *{
+
     margin:0;
+
     padding:0;
+
     box-sizing:border-box;
+
 }
 
-/* the whole page */
-body {
+/* Entire page */
+
+body{
+
     font-family:Arial, Helvetica, sans-serif;
-    background:orange;
+
+    background:#af4204;
+
 }
+
+/* Header */
 
 header{
+
+    background:rgb(221, 147, 36);
+
+    padding:20px 40px;
+
+    display:flex;
+
+    justify-content:space-between;
+
     align-items:center;
+
+    box-shadow:0 3px 10px rgb(0, 0, 0, 1);
+
+}
+
+/* Store title */
+
+header h1{
+
+    color:#000000;
+
+}
+
+/* Navigation */
+
+nav{
+
+    display:flex;
+
+    gap:25px;
+
+}
+
+/* Navigation links */
+
+nav a{
+    text-decoration:none;
+    color:#000000;
+    font-weight:bold;
+    display: inline-block;
+}
+
+nav img{
+    display:inline-block;
+    width:20px;
+}
+
+/* Hover */
+
+nav a:hover{
+
+    color:#ffa069;
+    transform:translateY(-2px);
+}
+
+.hero {
+    background:rgb(184, 102, 26);
+    
+    color:#000000;
+    font-family:Courier New;
+    padding:20px;
+    text-align:center;
+    box-shadow:0 3px 10px rgba(0, 0, 0, 1);
 }
