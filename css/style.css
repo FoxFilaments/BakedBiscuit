@@ -113,15 +113,19 @@ nav a:hover{
     gap:16px;
     place-items:center;
     align-content:space-between;
-    gap:0px;
+    align-items:start;
     padding:20px;
     row-gap:80px;
+    column-gap:20px;
     max-width:100%;
 }
 .project-card {  
     place-items:center;
+    text-align:center;
     font-family:a;
     color:black;
+    background:rgb(255, 169, 88);
+
     border:5px, solid, black;
 }
 .project-card:hover {

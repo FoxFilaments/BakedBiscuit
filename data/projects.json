@@ -1,0 +1,67 @@
+[
+    {
+    "id":1,
+    "Title":"Culture Kitchen",
+    "ShortDescription":"Our latest and most complete game. Culture Kitchen is a cooking simulator with some tycoon-like elements. Manage ingredients, create dishes, serve customers, and pay your taxes!",
+    "Description":"TBD",
+    "MainImage":"images/x.png",
+    "GameplayImages":[
+        {
+            "image1":"images/x",
+            "image2":"images/x"
+        }
+    ]
+    },
+    {
+        "id":2,
+        "Title":"The Flesh Pit",
+        "ShortDescription":"A take on the internet worldbuilding project, “The Mystery Flesh Pit”. This game was intended to be a first person roguelite dungeon crawler, where you would solve puzzles, avoid enemies, collect items, and uncover the larger narrative of the game.",
+        "Description":"TBD",
+        "MainImage":"images/x.png",
+        "GameplayImages":[
+            {
+                "image1":"images/x",
+                "image2":"images/x"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "Title":"Lasting Leviathan",
+        "ShortDescription":"Lasting Leviathan was our first successful game jam project. It’s a short fishing tycoon game where the player needs to manage their crew and make enough profit to eventually hunt down the Leviathan. This was a good test of our skills under pressure and time constraints.",
+        "Description":"TBD",
+        "MainImage":"images/x.png",
+        "GameplayImages":[
+            {
+                "image1":"images/x",
+                "image2":"images/x"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "Title":"Fishy Fishy",
+        "ShortDescription":"Fishy Fishy was our first real attempt at making a full video game, planned to have multiple locations, a full game loop, and a complete story arc. It was meant to be a fishing tycoon where you would shoot fish, catch them, and sell them for profit",
+        "Description":"TBD",
+        "MainImage":"images/x.png",
+        "GameplayImages":[
+            {
+                "image1":"images/x",
+                "image2":"images/x"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "Title":"Untitled Horror Game",
+        "ShortDescription":"Baked Biscuits original game. We started this project to test if we could really make a game. It was intended to be a short horror game where you play as a school janitor after hours. This was not a very well made game, but it showcases our first attempts at making simple game mechanics.",
+        "Description":"TBD",
+        "MainImage":"images/x.png",
+        "GameplayImages":[
+            {
+                "image1":"images/x",
+                "image2":"images/x"
+            }
+        ]
+    }
+]
