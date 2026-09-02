@@ -92,7 +92,7 @@ nav a:hover{
     text-align:center;
     padding:30px;
     font-size:20px;
-    font-family:sans-serif;
+    font-family:A;
 }
 .team img {
     padding:10px;
@@ -104,4 +104,26 @@ nav a:hover{
     font-size:40px;
     padding:50px;
     text-align:center;
+    font-family:Arial;
+}
+
+.project-page {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:16px;
+    place-items:center;
+    align-content:space-between;
+    gap:0px;
+    padding:20px;
+    row-gap:80px;
+    max-width:100%;
+}
+.project-card {  
+    place-items:center;
+    font-family:a;
+    color:black;
+    border:5px, solid, black;
+}
+.project-card:hover {
+    transform:translateY(-10px);
 }
