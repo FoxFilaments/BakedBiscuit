@@ -129,6 +129,11 @@ nav a:hover{
     text-decoration:none;
     border:5px, solid, black;
 }
+.project-card img {
+    width:450px;
+    padding-bottom:10px;
+    height:auto;
+}
 .project-card:hover {
     transform:translateY(-10px);
 }
@@ -138,4 +143,17 @@ nav a:hover{
     text-align:center;
     font-family:'Trebuchet MS';
     font-size:20px;
+}
+.project-images {
+    display: grid;
+    grid-template-columns: repeat(3, 400px);
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.project-images img {
+    width: 400px;
+    height: auto;
+    display: block;
 }
