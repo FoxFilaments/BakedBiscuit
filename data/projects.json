@@ -3,7 +3,8 @@
     "id":1,
     "Title":"Culture Kitchen",
     "ShortDescription":"Our latest and most complete game. Culture Kitchen is a cooking simulator with some tycoon-like elements. Manage ingredients, create dishes, serve customers, and pay your taxes!",
-    "Description":"TBD",
+    "Timeline":"Development Period: March 2026 - Present",
+    "Description":"Culture Kitchen started as a school project for Zack, and because of this, it has become our most cohesive and (arguably) fun game yet. In this game, every item is physics-based. Combine ingredients to create the correct dishes to serve your customers. Every day, it gets harder to keep up with orders as your restaurant gains popularity. To make every day more interesting, we plan on adding a randomized event system. There might be a recall on some ingredients, or perhaps the city turned off your water! This feature, as well as adding a slew of new dishes, is what we currently have planned. As of now, development has temporarily paused as we find our footing; One of us is starting school, and one of us has recently graduated.<br><br>Culture Kitchen is still in active development and may change drastically in the future. Our latest build is available to play in the Baked Biscuit Discord.",
     "MainImage":"images/x.png",
     "GameplayImages":[
         {
@@ -16,7 +17,8 @@
         "id":2,
         "Title":"The Flesh Pit",
         "ShortDescription":"A take on the internet worldbuilding project, “The Mystery Flesh Pit”. This game was intended to be a first person roguelite dungeon crawler, where you would solve puzzles, avoid enemies, collect items, and uncover the larger narrative of the game.",
-        "Description":"TBD",
+        "Timeline":"Development Period: July 2025 - September 2025",
+        "Description":"The Flesh Pit is a small dungeon crawler set in the world of The Mystery Flesh Pit by Trevor Roberts. Initially, we didn’t have much of an idea beyond the setting and some basic gameplay concepts. Development started quickly, and we got a lot done in a single month. Unfortunately, because of this loose design, we lost much of the game's direction, and our motivation dwindled. These reasons, paired with both of us being busy outside of development, meant that The Flesh Pit had to be dropped for the time being. <br><br>The Flesh Pit has the most complete set of art assets of any project we’ve made so far, including 15 unique rooms, ~5 items, and 40+ reusable props/assets. Below is a feature list for the game in its current state.",
         "MainImage":"images/x.png",
         "GameplayImages":[
             {
@@ -29,6 +31,7 @@
         "id":3,
         "Title":"Lasting Leviathan",
         "ShortDescription":"Lasting Leviathan was our first successful game jam project. It’s a short fishing tycoon game where the player needs to manage their crew and make enough profit to eventually hunt down the Leviathan. This was a good test of our skills under pressure and time constraints.",
+        "Timeline":"Development Period: September 2025, within 3 Days",
         "Description":"TBD",
         "MainImage":"images/x.png",
         "GameplayImages":[
@@ -42,7 +45,8 @@
         "id":4,
         "Title":"Fishy Fishy",
         "ShortDescription":"Fishy Fishy was our first real attempt at making a full video game, planned to have multiple locations, a full game loop, and a complete story arc. It was meant to be a fishing tycoon where you would shoot fish, catch them, and sell them for profit",
-        "Description":"TBD",
+        "Timeline":"Development Period: April 2025 - July 2025",
+        "Description":"Fishy Fishy is a goofy fishing simulator that we decided to start working on once we got back on our feet from our previous project. The idea essentially began as “what if you shoot fish to catch them?” and then grew from there. This was the second project we ever worked on in Unity, so we were still learning as we created Fishy Fishy. (Fun Fact: at one point, Benny started learning how to bake lighting into the environment, and when doing so, added an entire gigabyte to the games file size by accident because the entire city background was being calculated in the bake) Eventually both of us had learned so much in our fields that we couldn’t continue to work on a game with outdated/spaghetti code, and unoptimized models, so we moved on to a new project. <br><br>Fishy Fishy is technically our only game to have a fully voiced character that you can interact with. It also has the biggest soundtrack Zack has made so far. Towards the end of development, we added many disjointed/goofy features that we thought would be funny. Below is a feature list for the game in its current state.",
         "MainImage":"images/x.png",
         "GameplayImages":[
             {
@@ -55,6 +59,7 @@
         "id":5,
         "Title":"Untitled Horror Game",
         "ShortDescription":"Baked Biscuits original game. We started this project to test if we could really make a game. It was intended to be a short horror game where you play as a school janitor after hours. This was not a very well made game, but it showcases our first attempts at making simple game mechanics.",
+        "Timeline":"Development Period: December 2024 - January 2025",
         "Description":"TBD",
         "MainImage":"images/x.png",
         "GameplayImages":[

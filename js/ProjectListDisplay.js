@@ -6,7 +6,7 @@ fetch("data/projects.json")
             projList.innerHTML +=   `<a href="project.html?id=${project.id}"
                                         <div class="project-card">
                                             <img src=${project.MainImage}>
-                                            <p>${project.Title}</p>
+                                            <p>${project.Title}<br><br></p>
                                             <p>${project.ShortDescription}</p>
                                         </div>
                                     </a>`;
