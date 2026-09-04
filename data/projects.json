@@ -43,8 +43,8 @@
         "MainImage":"images/x.png",
         "GameplayImages":[
             {
-                "image1":"images/x",
-                "image2":"images/x"
+                "image1":"images/Leviathan1.png",
+                "image2":"images/Leviathan2.png"
             }
         ]
     },
