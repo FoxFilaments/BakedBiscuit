@@ -5,11 +5,16 @@
     "ShortDescription":"Our latest and most complete game. Culture Kitchen is a cooking simulator with some tycoon-like elements. Manage ingredients, create dishes, serve customers, and pay your taxes!",
     "Timeline":"Development Period: March 2026 - Present",
     "Description":"Culture Kitchen started as a school project for Zack, and because of this, it has become our most cohesive and (arguably) fun game yet. In this game, every item is physics-based. Combine ingredients to create the correct dishes to serve your customers. Every day, it gets harder to keep up with orders as your restaurant gains popularity. To make every day more interesting, we plan on adding a randomized event system. There might be a recall on some ingredients, or perhaps the city turned off your water! This feature, as well as adding a slew of new dishes, is what we currently have planned. As of now, development has temporarily paused as we find our footing; One of us is starting school, and one of us has recently graduated.<br><br>Culture Kitchen is still in active development and may change drastically in the future. Our latest build is available to play in the Baked Biscuit Discord.",
-    "MainImage":"images/x.png",
+    "MainImage":"images/KitchenMain.jpg",
     "GameplayImages":[
         {
-            "image1":"images/x",
-            "image2":"images/x"
+            "image1":"images/Kitchen1.jpg",
+            "image2":"images/Kitchen2.jpg",
+            "image3":"images/Kitchen3.jpg",
+            "image4":"images/Kitchen4.jpg",
+            "image5":"images/Kitchen5.jpg",
+            "image6":"images/Kitchen6.jpg",
+            "image7":"images/Kitchen7.jpg"
         }
     ]
     },
