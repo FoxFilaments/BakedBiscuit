@@ -22,5 +22,6 @@ fetch("data/projects.json")
         <div class="project-images">
             ${imagesHTML}
         </div>
+        <a href=${project.Link} class="link">Play it here!</a>
         `
     })

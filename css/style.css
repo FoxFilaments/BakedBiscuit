@@ -158,3 +158,11 @@ nav a:hover{
     display: block;
     border:7px, solid, rgb(0, 0, 0);
 }
+
+.link {
+    display:block;
+    font-size:20px;
+    padding:20px;
+    color:white;
+    text-align:center;
+}
