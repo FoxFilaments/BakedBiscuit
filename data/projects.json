@@ -47,11 +47,16 @@
         "ShortDescription":"Lasting Leviathan was our first successful game jam project. It’s a short fishing tycoon game where the player needs to manage their crew and make enough profit to eventually hunt down the Leviathan. This was a good test of our skills under pressure and time constraints.",
         "Timeline":"Development Period: September 2025, within 3 Days",
         "Description":"Lasting Leviathan is a small game jam project we made within 3 days. At this point we had never developed a game past a demo state, so this was our first attempt to have a playable game from start to finish. We succeeded, but the Lasting Leviathan lacked a lot of polish and was missing a lot of the “fun” elements it needed. Even so, it proved that we could make a complete game and it was a good test of our skills. Below is a list of this game's final features.",
-        "MainImage":"images/Leviathan1.png",
+        "MainImage":"images/LastingMain.jpg",
         "GameplayImages":[
             {
-                "image1":"images/Leviathan1.png",
-                "image2":"images/Leviathan2.png"
+                "image1":"images/Lasting3.jpg",
+                "image2":"images/Lasting4.jpg",
+                "image3":"images/Lasting5.jpg",
+                "image4":"images/Lasting6.jpg",
+                "image5":"images/Lasting7.jpg",
+                "image6":"images/Leviathan1.png",
+                "image7":"images/Leviathan2.png"
             }
         ],
         "Link":"https://drive.google.com/drive/folders/1YTIimNUOG7MIG8gqrI3WjKuPvnmSVNLf?usp=sharing"
@@ -81,11 +86,16 @@
         "ShortDescription":"Baked Biscuits original game. We started this project to test if we could really make a game. It was intended to be a short horror game where you play as a school janitor after hours. This was not a very well made game, but it showcases our first attempts at making simple game mechanics.",
         "Timeline":"Development Period: December 2024 - January 2025",
         "Description":"TBD",
-        "MainImage":"images/x.png",
+        "MainImage":"images/HorrorMain.jpg",
         "GameplayImages":[
             {
-                "image1":"images/x",
-                "image2":"images/x"
+                "image1":"images/Horror1.jpg",
+                "image2":"images/Horror2.jpg",
+                "image3":"images/Horror3.jpg",
+                "image4":"images/Horror4.jpg",
+                "image5":"images/Horror5.jpg",
+                "image6":"images/Horror6.jpg",
+                "image7":"images/Horror7.jpg"
             }
         ],
         "Link":"https://drive.google.com/drive/folders/12K_xLnidZ9m_cJbtKuetDsKXtaJP_FI7?usp=sharing"
